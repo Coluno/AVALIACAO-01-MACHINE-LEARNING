@@ -19,7 +19,7 @@ O projeto utiliza Python como linguagem principal, com bibliotecas de ciência d
 
 ## Requisitos
 
-- Python 3.12
+- Python 
 - pandas
 - numpy
 - seaborn
@@ -49,7 +49,11 @@ python analise_felicidade.py
 
 ## Colaboradores
 
-- Gabriel Canuto de Alencar
+- Arthur de Holanda Novaes
+- Eric de Gusmão Pino
+- Gabriel canuto de alencar
+- Igor Lima Laranjeiras
+- Rafael bastos
 
 ## Licença
 
